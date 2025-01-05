@@ -6,11 +6,11 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://github.com/CMSZ001"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        CMSZ001
       </a>
     </div>
 
@@ -21,13 +21,6 @@
     </div>
 
     <div class="divider">|</div>
-
-    <a
-      href="https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn"
-      target="_blank"
-    >
-      <img src="https://zeabur.com/deployed-on-zeabur-dark.svg" />
-    </a>
   </footer>
 </template>
 
