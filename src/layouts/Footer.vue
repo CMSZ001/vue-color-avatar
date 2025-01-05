@@ -19,8 +19,7 @@
     <div class="locale" @click="switchLocale">
       {{ locale === Locale.EN ? '简体中文' : 'English' }}
     </div>
-
-    <div class="divider">|</div>
+    
   </footer>
 </template>
 
