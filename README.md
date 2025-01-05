@@ -7,13 +7,13 @@
 
 </div>
 
-<a href="https://vue-color-avatar.leoku.dev">
+<a href="https://color-avatar.acmsz.top/">
   <img src="./images/social-preview-1.png" alt="website-cover" />
 </a>
 
 ## Preview
 
-[`https://vue-color-avatar.leoku.dev`](https://vue-color-avatar.leoku.dev)
+[`https://color-avatar.acmsz.top`](https://color-avatar.acmsz.top/)
 
 ## Introduction
 
@@ -38,7 +38,7 @@ This project is built with `Vue3` + `Vite`.
 
 ```sh
 # 1. Clone project
-git clone https://github.com/Codennnn/vue-color-avatar.git
+git clone https://github.com/CMSZ001/vue-color-avatar.git
 
 # 2. Install dependencies
 yarn install
@@ -63,7 +63,7 @@ Or, you can manually compile it yourself if you prefer.
 
 ```sh
 #clone the code
-git clone https://github.com/Codennnn/vue-color-avatar.git
+git clone https://github.com/CMSZ001/vue-color-avatar.git
 
 #docker build
 cd vue-color-avatar/
@@ -74,9 +74,3 @@ docker run -d -t -p 5173:8080 --name vue-color-avatar --restart=always vue-color
 ```
 
 Finally, open your browser and access the service's address at http://serverIP:5173.
-
-### Deployed on Zeabur
-
-Our project is powered by [Zeabur](https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn). Their high-quality server services ensure the stable operation of our project. Need quality server services? Check them out via the link!
-
-[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn)
